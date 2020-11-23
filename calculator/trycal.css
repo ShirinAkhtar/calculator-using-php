@@ -1,0 +1,62 @@
+input[type="button"] {
+	background-color: palevioletred;
+	color: black;
+	border: solid black 2px;
+	width: 119px;
+	padding: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 2px;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+textarea {
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+h5 {
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+}
+
+input[type="text"] {
+	background-color: white;
+	border: solid black 2px;
+	width: 400px;
+	padding: 20px;
+}
+
+.sf {
+	margin-left: 400px;
+	padding: 20px;
+	margin-top: 100px;
+	width: 500px;
+	border: 3px solid black;
+	border-radius: 5px;
+}
+
+table,th,td {
+	padding: 5px;
+}
+
+th {
+	font-size: 24px;
+	font-weight: 600;
+	font-family: Arial;
+	color: black;
+	margin-right: 25px;
+}
+
+td {
+	font-size: 15px;
+	color: black;
+	font-weight: 400;
+	font-family: Georgia;
+	text-align: center;
+}
